@@ -22,9 +22,9 @@ enter = raw_input("Term:")
 enter_second = raw_input("and:")
 full_enter = enter +' '+ enter_second
 if enter_second == '':
-string = True
-else:
 string = False
+else:
+string = True
 if string == True:
 if enter in open('brain.txt').read():
 print("true")
