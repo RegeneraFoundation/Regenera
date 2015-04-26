@@ -1,3 +1,8 @@
+#!/usr/bin/python
+#[P]seudo
+#[I]ntelligent
+#[N]neural
+#[N]network
 import os
 def speak(n):
     n = '"' + n
