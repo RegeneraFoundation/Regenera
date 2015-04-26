@@ -1,3 +1,8 @@
+#!/usr/bin/python
+#[P]seudo
+#[I]ntelligent
+#[N]neural
+#[N]network
 from time import sleep
 import os
 
