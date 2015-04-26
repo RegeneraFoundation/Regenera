@@ -1,4 +1,8 @@
-#!/usr/bin/env python
+#!/usr/bin/python
+#[P]seudo
+#[I]ntelligent
+#[N]neural
+#[N]network
 
 import speak
 import random
